@@ -51,6 +51,8 @@ class StaffList():
                 # Make Message
                 Text = ""
                 for Role in self.List:
+                    if self.List[Role] == set():
+                        continue
                     Text += f"# {Role}\n"
                     for MemberID in self.List[Role]:
                         warn = 0
