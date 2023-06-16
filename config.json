@@ -1,0 +1,21 @@
+{
+  "Settings": {
+    "GuildID": 1003740769565282525,
+    "ChannelID":1096805544037199913,
+    "MessageID": 1119383750653001798,
+
+    "RoldeID_Warn1":1119373759367888906,
+    "RoldeID_Warn2":1119373834718548039,
+    "RoldeID_Warn3":1119373838141100193,
+    
+    "Token": "Your Bot Token"
+  },
+  "Roles": {
+    "Admin": {
+      "RoleID": 1096806224705622297
+    },
+    "Member": {
+      "RoleID": 1025223239653392435
+    }
+  }
+}
